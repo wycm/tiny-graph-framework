@@ -1,4 +1,4 @@
-package com.github.wycm.graph.framework;
+package com.github.wycm.graph.framework.core;
 
 /**
  * 基础调度节点
@@ -6,4 +6,5 @@ package com.github.wycm.graph.framework;
 public interface GraphNode<T> {
 
     T process(RuntimeContext runtimeContext);
+
 }

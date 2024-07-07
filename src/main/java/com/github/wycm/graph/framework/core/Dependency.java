@@ -1,4 +1,4 @@
-package com.github.wycm.graph.framework;
+package com.github.wycm.graph.framework.core;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
